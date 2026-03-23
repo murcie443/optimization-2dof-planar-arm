@@ -1,11 +1,16 @@
-# optimization-parameters-2dof-planar-arm
+# optimization-2dof-planar-arm
 
-# About 
+
 This work extends the methodology presented by Chaudhary et al. in 'Design of Serial Link Manipulator with Uncertainties using Interval Method'. While the original study focuses on analyzing the achievement of a goal using grid search and interval methods , utilizing two pseudo-independent optimizations of physical parameters, this work introduces a multi-objective optimization framework paired with a dynamic control scheme and a Simscape-based physical model. By transitioning from a static design focus to a multi-cost approach, we provide a comprehensive analysis of the manipulator’s performance from a dynamic perspective. The proposed model evaluates the trade-offs between Dynamic Manipulability, the Local Conditioning Index (LCI), and target proximity, offering a more reliable and robust representation of real-world operating conditions.
+
+## Control Scheme
+
 
 ## Optimization in progress...
 <img src="https://github.com/user-attachments/assets/5b3add45-18ef-4128-8d77-acf3af790536" width="800">
 
+
+## Pareto Front
 
 
 ## Reference Paper
