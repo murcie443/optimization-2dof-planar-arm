@@ -13,6 +13,10 @@ The work extends the methodology presented by Chaudhary et al. in 'Design of Ser
 ## Pareto Front Example
 <img src="https://github.com/murcie443/optimization-2dof-planar-arm/blob/main/Results/Pareto%20Front%20with%20XZ%20contraint/gamultiobj/Pareto%20Front%203D.png?raw=true" width="800">
 
+
+## Additional Info
+If you are interested in learning more, you can find explanations in the full [project report](https://github.com/murcie443/optimization-2dof-planar-arm/tree/main/Results/Optimization_report.pdf)!
+
 ## Reference Paper
 Saurabh Chaudhary, Virendra Kumar, and Soumen Sen. “Design of serial link manipulator
 with uncertainties using interval method”. In: 2020 National Conference on Emerging Trends
